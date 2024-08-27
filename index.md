@@ -1,6 +1,6 @@
-#Arushi Ravula's First CS193 Homework
+# Arushi Ravula's First CS193 Homework
 
-#Favorite things about CS193
+# Favorite things about CS193
 - Meeting new people
 - Learning new things
 - Taught by TA'S
